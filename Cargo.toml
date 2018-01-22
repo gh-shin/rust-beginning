@@ -1,0 +1,6 @@
+[package]
+name = "rust-beginning"
+version = "0.1.0"
+authors = ["gh-shin <32306201+gh-shin@users.noreply.github.com>"]
+
+[dependencies]
